@@ -10,7 +10,7 @@ import tempfile
 import xml.etree.ElementTree as ET
 
 import streamlit as st
-from lxml import etree
+#from lxml import etree
 
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
 st.set_page_config(
