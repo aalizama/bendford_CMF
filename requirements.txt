@@ -1,5 +1,5 @@
 streamlit
-lxml==4.9.4
+lxml
 plotly
 pandas
 numpy
