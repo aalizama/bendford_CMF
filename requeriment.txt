@@ -2,6 +2,6 @@ import math
 import os
 import tempfile
 import xml.etree.ElementTree as ET
-
+from lxml import etree
 import streamlit as st
 from lxml import etree
