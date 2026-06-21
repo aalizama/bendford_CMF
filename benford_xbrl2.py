@@ -360,7 +360,7 @@ for col, label, val, color in [
     </div>""", unsafe_allow_html=True)
 
 st.caption(f"{'⚠️ Se rechaza H₀ de conformidad con Benford' if p_value < 0.05 else '✅ No se rechaza H₀ de conformidad con Benford'} (Chi² = {chi2_stat:.2f}, p = {p_value})")
-
+st.caption(f"{'⚠️ Se recomienda un análisis con N > 1000' if total < 1000 else '✅ Número de datos analizados aceptable para el modelo'}")
 # ─── TABLA DETALLE POR DÍGITO ─────────────────────────────────────────────────
 st.markdown("---")
 st.markdown('<p class="section-title">📋 Detalle por Dígito</p>', unsafe_allow_html=True)
