@@ -29,7 +29,7 @@ st.markdown("""
     [data-testid="stAppViewContainer"]      { background-color: #0d1520; }
     [data-testid="stHeader"]                { background-color: #0d1520; border-bottom: 1px solid #1e2e42; }
     [data-testid="stToolbar"]               { background-color: #0d1520; }
-    [data-testid="stSidebar"]               { background-color: #FFFFFF; }
+    [data-testid="stSidebar"]               { background-color: #0F172A; }
     [data-testid="stBottomBlockContainer"]  { background-color: #0d1520; }
     section[data-testid="stSidebar"] > div  { background-color: #FFFFFF; }
 
