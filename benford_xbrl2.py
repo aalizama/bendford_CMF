@@ -33,6 +33,12 @@ st.markdown("""
     [data-testid="stBottomBlockContainer"]  { background-color: #0d1520; }
     section[data-testid="stSidebar"] > div  { background-color: #112240; }
 
+    [data-testid="stSidebar"] h1,
+    [data-testid="stSidebar"] h2,
+    [data-testid="stSidebar"] h3 {
+    color: #93C5FD !important;
+    }
+
     .block-container { padding-top: 1.5rem; padding-bottom: 1rem; max-width: 1400px; }
 
     .metric-card {
