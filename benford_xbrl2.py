@@ -42,10 +42,10 @@ st.markdown("""
         padding: 18px 20px;
         margin-bottom: 12px;
     }
-    .metric-label { color: #8ba0bb; font-size: 0.75rem; font-weight: 500; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px; }
-    .metric-value { color: #e8f0fe; font-size: 1.55rem; font-weight: 700; line-height: 1.1; }
+    .metric-label { color: #d7e3f4; font-size: 0.75rem; font-weight: 500; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px; }
+    .metric-value { color: #ffffff; font-size: 1.55rem; font-weight: 700; line-height: 1.1; }
 
-    .section-title { color: #c9d8ee; font-size: 1.1rem; font-weight: 600; margin-bottom: 0.5rem; padding-bottom: 6px; border-bottom: 2px solid #2d4060; }
+    .section-title { color: #ffffff; font-size: 1.1rem; font-weight: 600; margin-bottom: 0.5rem; padding-bottom: 6px; border-bottom: 2px solid #2d4060; }
 
     .header-band {
         background: linear-gradient(90deg, #0f1e30, #1a3050);
@@ -54,8 +54,8 @@ st.markdown("""
         margin-bottom: 24px;
         border: 1px solid #2a4060;
     }
-    .header-band h1 { color: #c9ddf5; font-size: 1.7rem; font-weight: 700; margin: 0; }
-    .header-band p  { color: #7090b0; font-size: 0.85rem; margin: 4px 0 0 0; }
+    .header-band h1 { color: #ffffff; font-size: 1.7rem; font-weight: 700; margin: 0; }
+    .header-band p  { color: #d1d5db; font-size: 0.85rem; margin: 4px 0 0 0; }
 
     .info-box {
         background: #111e2e;
@@ -63,7 +63,7 @@ st.markdown("""
         border-radius: 10px;
         padding: 14px 18px;
         margin-bottom: 18px;
-        color: #8ba0bb;
+        color: #e5e7eb;
         font-size: 0.82rem;
         line-height: 1.6;
     }
