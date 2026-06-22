@@ -492,7 +492,7 @@ if len(files_data) > 1:
 # ─── FOOTER ───────────────────────────────────────────────────────────────────
 st.markdown("""
 <br>
-<div style="text-align:center;color:#3d5a7a;font-size:0.75rem;padding-bottom:10px;">
+<div style="text-align:center;color:#9CA3AF;font-size:0.75rem;padding-bottom:10px;">
   Datos extraídos de reportes XBRL / CMF Chile · Auditoría Forense – Ley de Benford (Nigrini, 2012)
 </div>
 """, unsafe_allow_html=True)
