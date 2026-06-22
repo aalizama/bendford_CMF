@@ -31,7 +31,7 @@ st.markdown("""
     [data-testid="stToolbar"]               { background-color: #0d1520; }
     [data-testid="stSidebar"]               { background-color: #0F172A; }
     [data-testid="stBottomBlockContainer"]  { background-color: #0d1520; }
-    section[data-testid="stSidebar"] > div  { background-color: #FFFFFF; }
+    section[data-testid="stSidebar"] > div  { background-color: #112240; }
 
     .block-container { padding-top: 1.5rem; padding-bottom: 1rem; max-width: 1400px; }
 
