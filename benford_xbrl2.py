@@ -39,6 +39,10 @@ st.markdown("""
     color: #93C5FD !important;
     }
 
+    [data-testid="stSidebar"] label {
+    color: #60A5FA !important;   /* Azul claro */
+    font-weight: 600;
+    }
     .block-container { padding-top: 1.5rem; padding-bottom: 1rem; max-width: 1400px; }
 
     .metric-card {
