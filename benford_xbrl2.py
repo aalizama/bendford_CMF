@@ -76,7 +76,7 @@ DIGITS = list(range(1, 10))
 
 CHART_BG = "rgba(0,0,0,0)"
 GRID_CLR = "rgba(45,64,96,0.5)"
-TEXT_CLR = "#8ba0bb"
+TEXT_CLR = "#FFFFFF"
 
 
 # ─── FUNCIONES ────────────────────────────────────────────────────────────────
