@@ -29,9 +29,9 @@ st.markdown("""
     [data-testid="stAppViewContainer"]      { background-color: #0d1520; }
     [data-testid="stHeader"]                { background-color: #0d1520; border-bottom: 1px solid #1e2e42; }
     [data-testid="stToolbar"]               { background-color: #0d1520; }
-    [data-testid="stSidebar"]               { background-color: #0d1825; }
+    [data-testid="stSidebar"]               { background-color: #FFFFFF; }
     [data-testid="stBottomBlockContainer"]  { background-color: #0d1520; }
-    section[data-testid="stSidebar"] > div  { background-color: #0d1825; }
+    section[data-testid="stSidebar"] > div  { background-color: #FFFFFF; }
 
     .block-container { padding-top: 1.5rem; padding-bottom: 1rem; max-width: 1400px; }
 
